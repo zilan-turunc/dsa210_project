@@ -5,7 +5,7 @@
 This project aims to explore the relationship between TikTok usage patterns and the phases of the menstrual cycle. 
 With social media playing a significant role in our daily lives, understanding its usage in the context of biological rhythms 
 may provide insights into behavioral tendencies, emotional well-being, and productivity. By investigating how TikTok screentime 
-and content engagement vary across different phases of the menstrual cycle, this project seeks to uncover meaningful patterns 
+and content engagement changes across different phases of the menstrual cycle, this project tries to uncover meaningful patterns 
 and contribute to discussions on digital consumption and personal health.
 
 ---
@@ -20,7 +20,7 @@ and contribute to discussions on digital consumption and personal health.
 - Does higher screentime coincide with certain days or phases of the cycle, potentially indicating reduced focus or energy levels?
 
 ### **Content Recommendation Feedback**
-- Does TikTok's algorithm recommend specific types of videos based on implicit behavioral changes during different cycle phases?
+- Does TikTok's algorithm recommend specific types of videos based on behavioral changes during different cycle phases?
 - How well do these recommendations align with the user's mood or interests during each phase?
 
 ---
@@ -43,5 +43,5 @@ and contribute to discussions on digital consumption and personal health.
 ## **Expected Outcomes**
 This project is expected to:
 1. Identify patterns in TikTok screentime and content preferences during specific menstrual phases.
-2. Highlight potential correlations between high screentime and perceived productivity or focus levels.
+2. Highlight potential correlations between high screentime and productivity or focus levels.
 3. Provide insights into how TikTok’s recommendation system aligns with natural behavioral changes during the menstrual cycle.
