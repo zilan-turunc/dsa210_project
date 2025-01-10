@@ -1,6 +1,6 @@
 # TikTok Usage and Menstrual Cycle Analysis
 ## Project Website
-https://sites.google.com/sabanciuniv.edu/zilan?usp=sharing
+Click [here](https://sites.google.com/sabanciuniv.edu/zilan?usp=sharing) to go to the website.
 
 ## Project Motivation
 This project investigates the relationship between TikTok usage patterns and the menstrual cycle. With social media playing a significant role in daily life, understanding its use in the context of biological rhythms can provide valuable insights into behavioral tendencies, emotional well-being, and productivity. By analyzing TikTok screentime and content engagement across menstrual cycle phases, this project seeks to uncover meaningful patterns and contribute to discussions on digital consumption and personal health.
